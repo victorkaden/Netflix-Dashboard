@@ -1,6 +1,11 @@
 # Netflix Dashboard Analysis
+![BrandAssets_Logos_01-Wordmark](https://github.com/user-attachments/assets/4baa35e2-3bef-44a8-bc14-70a43e2e234f)
+
+
 
 This project presents a dynamic and visually appealing **Power BI dashboard** that analyzes Netflix content performance across key metrics. The dashboard highlights total titles, genres, ratings, top movies, and global audience distribution, offering valuable insights into Netflix's data.
+
+[Dashboard link](https://github.com/victorkaden/Netflix-Dashboard/blob/main/Netflix%20Dashboard.pdf)
 
 ## 🔍 Key Insights:
 - **Total Titles**: 955
